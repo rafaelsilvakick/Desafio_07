@@ -1,0 +1,22 @@
+table{
+    margin: auto;
+    text-align: center;
+    width: 600px;
+    height: 400px;
+    border: 1px solid black;
+    border-spacing: 0;
+    font-size: 20px;
+
+}
+
+#nome{
+    background-color: green;
+    color: aliceblue;
+    
+}
+
+#c1, #c2, #c3{
+ background-color: green;
+ color:aliceblue
+}
+
